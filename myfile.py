@@ -2,4 +2,4 @@ print("hello World")
 print("How are you")
 print("What are you doing?")
 
-Print(3 + 2)
+print(2 + 3)
